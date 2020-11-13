@@ -25,7 +25,7 @@ html body {
 header {
     display: flex;
     justify-content: center;
-    background-image: url("/pics/bgimg2.jpg");
+    background-image: url("./pics/bgimg2.jpg");
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
@@ -129,7 +129,7 @@ header nav {
 }
 
 .box2 {
-    background-image: url(/pics/club-house.jpg);
+    background-image: url(./pics/club-house.jpg);
     background-repeat: no-repeat;
     background-position: center;
     grid-column: 2/2;
@@ -138,7 +138,7 @@ header nav {
 }
 
 .box3{
-    background-image: url(/pics/18.jpg);
+    background-image: url(./pics/18.jpg);
     background-position: center;
     grid-column: 3/4;
     border-top: 1rem solid #fff;
